@@ -12,5 +12,5 @@ python pretrain.py
 ```
 We measure the quality of the learned representations by linear separability.
 ```
-python evaluation.py
+python test.py
 ```
